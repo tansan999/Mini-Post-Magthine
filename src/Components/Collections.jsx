@@ -42,7 +42,7 @@ const Collections = () => {
                 elevation={2}
                 sx={{
                   bgcolor: "background.default",
-                  p: 2,
+                  // p: 2,
                   borderRadius: 3,
                   height: "100%",
                 }}
@@ -72,3 +72,5 @@ const Collections = () => {
 };
 
 export default Collections;
+
+

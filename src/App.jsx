@@ -18,7 +18,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline /> <Header mode={mode} toggleMode={toggleMode} /> <Hero />
-      <Collections /> <UniqueStyle /> <Footer />
+      <Collections /> <UniqueStyle /> 
     </ThemeProvider>
   );
 }

@@ -18,13 +18,9 @@ const UniqueStyle = () => {
           Откройте для себя мир элегантности и женственности. Каждое платье —
           это возможность почувствовать себя особенной.
         </Typography>
-        <Stack direction="row" spacing={2} justifyContent="center">
-          <Button variant="contained" color="primary" sx={{ borderRadius: 10 }}>
-            Коллекции
-          </Button>
-          <Button variant="outlined" color="primary" sx={{ borderRadius: 10 }}>
-            Связаться
-          </Button>
+        <Stack direction="row" spacing={2} justifyContent="center">   
+          <a href="t.me/diomiko12l">telegram</a>
+
         </Stack>
       </Container>
     </Box>
