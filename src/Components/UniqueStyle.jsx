@@ -19,7 +19,7 @@ const UniqueStyle = () => {
           это возможность почувствовать себя особенной.
         </Typography>
         <Stack direction="row" spacing={2} justifyContent="center">   
-          <a href="t.me/diomiko12l">telegram</a>
+          <a href="https://t.me/mylifelikeeasy">telegram</a>
 
         </Stack>
       </Container>
