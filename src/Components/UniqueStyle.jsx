@@ -18,9 +18,11 @@ const UniqueStyle = () => {
           Откройте для себя мир элегантности и женственности. Каждое платье —
           это возможность почувствовать себя особенной.
         </Typography>
-        <Stack direction="row" spacing={2} justifyContent="center">   
+        <Stack direction="row" spacing={2} justifyContent="center">
           <a href="https://t.me/mylifelikeeasy">telegram</a>
-
+          <a href="https://www.instagram.com/v_dior_v?igsh=MTJzeTJpc3VicDAzbQ==">
+            Instagram
+          </a>
         </Stack>
       </Container>
     </Box>
