@@ -20,6 +20,8 @@ const UniqueStyle = () => {
         </Typography>
         <Stack direction="row" spacing={2} justifyContent="center">
           <a href="https://t.me/mylifelikeeasy">telegram</a>
+          <a href="https://wa.me/qr/M4FUCIQLS7QDD1">WhatsApp </a>
+          <a href="https://wa.me/message/WEMLEDYYWS7MM1">Business whatsApp </a>
           <a href="https://www.instagram.com/v_dior_v?igsh=MTJzeTJpc3VicDAzbQ==">
             Instagram
           </a>
